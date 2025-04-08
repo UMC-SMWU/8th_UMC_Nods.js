@@ -1,4 +1,5 @@
 ## 💻 UMC Node.js Study ✏️
+## Jinny's README
 
 ### 📥 프로젝트 시작하기
 
